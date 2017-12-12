@@ -1,0 +1,61 @@
+/*------------------------------------main*/
+
+#main {
+    width: 100%;
+    height: 640px;
+    background-image: url(../img/cover.jpg);
+    background-size: cover;
+    background-position: center top;
+}
+
+.block {
+    width: 40%;
+    height: 640px;
+    margin: 0 auto;
+}
+
+.out-block p {
+    padding-top: 5.5%;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.out-block {
+    position: relative;
+    width: 100%;
+    height: 220px;
+    background-color: rgba(222, 222, 222, 0.5);
+    top: 40%;
+}
+
+.inside-block {
+    position: relative;
+    background-color: black;
+    width: 40%;
+    height: 50px;
+    top: 25%;
+    margin: 0 auto;
+}
+
+.inside-block p {
+    padding-top: 5%;
+    text-align: center;
+    font-size: 25px;
+}
+
+.label {
+    width: 100%;
+    height: 50px;
+    background-color: #D8D8D8
+}
+
+.label p {
+    text-align: center;
+    padding-top: 15px;
+    font-size: 20px;
+    letter-spacing: 5px;
+    color: #6E6E6E;
+}
+
+
